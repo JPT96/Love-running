@@ -150,6 +150,10 @@ width:100%;
 float:left;
 padding:0;}
 hr {display: none;}
+#times > dive{ width: 100%;
+clear:both;
+height: 150px;
+padding:0;}
 }
 @media screen and (max-width: 950px)
 {
